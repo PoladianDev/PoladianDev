@@ -10,9 +10,9 @@ I run a personal homelab on a 32-bit Debian server hosting production services, 
 
 | Service | Stack | Notes |
 |---|---|---|
-| **Vaultwarden** | Rust · Apache · Tailscale | Cross-compiled for i686 — no Docker, runs on 1 GB RAM |
+| **Vaultwarden** | Rust · Apache · Tailscale | Cross-compiled for i686 | no Docker, runs on 1 GB RAM |
 | **Nextcloud** | Apache · ext4 loopback | Data directory on external HDD via loopback image |
-| **Napalify** | Flask · JavaScript · iTunes API | Music streaming app I built — gapless playback, mobile UI |
+| **WaveForm** | Flask · JavaScript · iTunes API | Music streaming app I built | gapless playback, mobile UI |
 | **Pi-hole** | DNS · Tailscale nameserver | Network-wide ad filtering routed through Tailscale |
 | **Monitoring** | Fail2ban · UFW · Telegram bot | Health alerts, SSH and Nextcloud jails, port hardening |
 
