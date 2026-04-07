@@ -1,4 +1,4 @@
-# Noah Poladian
+# Nazar Poladian
 ### Linux · DevOps · Self-hosted infrastructure · Open to remote
 
 BBA in Management Information Systems, Haigazian University '25. Based in Antelias, Lebanon.
