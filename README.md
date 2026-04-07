@@ -1,8 +1,7 @@
 # Nazar Poladian
 ### Linux · DevOps · Self-hosted infrastructure · Open to remote
 
-BBA in Management Information Systems, Haigazian University '25. Based in Antelias, Lebanon.
-I run a personal homelab on a 32-bit Debian server hosting production services, and I'm working toward a remote DevOps / Linux admin role.
+BBA in Management Information Systems, Haigazian University '25. I run a personal homelab on a 32-bit Debian server hosting production services, and I'm working toward a remote DevOps / Linux admin role.
 
 &nbsp;
 
