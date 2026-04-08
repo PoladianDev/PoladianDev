@@ -2,6 +2,7 @@
 ### Linux · DevOps · Self-hosted infrastructure · Open to remote
 
 BBA in Management Information Systems, Haigazian University ’25. I manage a personal homelab on a 32-bit Debian server hosting production services, focusing on Linux administration, automation, and self-hosted infrastructure. Actively building toward remote DevOps / Linux sysadmin opportunities.
+
 &nbsp;
 
 ## 🖥️ Homelab
