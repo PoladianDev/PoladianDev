@@ -42,7 +42,6 @@ Security      Fail2ban · UFW · Tailscale certs
 </p>
 
 &nbsp;
-
 ## 🚀 Currently building toward
 - [x] Reverse proxy, TLS, network hardening
 - [x] Bash scripting, systemd timers, Linux administration
