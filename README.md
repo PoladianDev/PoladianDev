@@ -40,7 +40,9 @@ Security      Fail2ban · UFW · Tailscale certs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
 </p>
+
 &nbsp;
+
 ## 🚀 Currently building toward
 - [x] Reverse proxy, TLS, network hardening
 - [x] Bash scripting, systemd timers, Linux administration
